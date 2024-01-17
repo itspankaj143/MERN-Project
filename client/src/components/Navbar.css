@@ -1,0 +1,28 @@
+.container1 {
+  max-width: 140rem;
+  padding: 1.5rem 2.4rem;
+
+  display: flex;
+  justify-content: space-between;
+  background-color: #ffffff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+ul {
+  display: flex;
+  gap: 2.5rem;
+}
+
+ul li {
+  background-color: black;
+  border-radius: 14px;
+  padding: 10px 20px;
+  list-style: none;
+  font-size: 1.2rem;
+}
+ul li a {
+  color: #ffffff;
+  font-weight: 600;
+  text-decoration: none;
+}
